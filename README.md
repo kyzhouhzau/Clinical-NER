@@ -15,7 +15,7 @@
 ### 第二部：模型训练
 
 
-##### $bash bash wapiti_ccks.sh    #训练模型，模型储存在/eval/bio_ccks中
+##### $bash wapiti_ccks.sh    #训练模型，模型储存在/eval/bio_ccks中
 
 
 ### 第三部分：获得结果
