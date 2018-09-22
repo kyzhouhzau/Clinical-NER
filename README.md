@@ -27,3 +27,6 @@
 
 ### 结果文件
 Flyon\CCKS_CRF\eval\result.txt
+
+
+### Wapiti is a simple and fast discriminative sequence labeling toolkit ( http://wapiti.limsi.fr )
