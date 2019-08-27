@@ -18,7 +18,7 @@
 
 ##### $bash wapiti_ccks.sh    #训练模型，模型储存在/eval/bio_ccks中
 
-(on validation set)
+(on validation set 非最优参数)
 ![](1-1.png)
 
 ### 第三部分：获得结果(Linux)
