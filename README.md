@@ -33,5 +33,5 @@ Flyon\CCKS_CRF\eval\result.txt
 
 
 ## 注：
-可以尝试BERT,ALBERT等预训练模型 参见：[fennlp](https://mp.weixin.qq.com/s/Il8sh66TUCEPskbypDZLAg) 
+可以尝试BERT,ALBERT等预训练模型 参见：[fennlp](https://github.com/kyzhouhzau/fennlp) 
 
